@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YSRepo_Tests' do
+  pod 'YSRepo', :path => '../'
+  
+  
+end
