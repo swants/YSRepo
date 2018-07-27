@@ -1,0 +1,16 @@
+PODS:
+  - YSRepo (0.1.0)
+
+DEPENDENCIES:
+  - YSRepo (from `../`)
+
+EXTERNAL SOURCES:
+  YSRepo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YSRepo: 2fc5fbe64031701e1a2339216f9278c23acfaf40
+
+PODFILE CHECKSUM: fd7999d1e3b091e2937cebd0b9d4d2183a9ef00c
+
+COCOAPODS: 1.5.0

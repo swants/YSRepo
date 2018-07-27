@@ -1,0 +1,6 @@
+framework module YSRepo {
+  umbrella header "YSRepo-umbrella.h"
+
+  export *
+  module * { export * }
+}
